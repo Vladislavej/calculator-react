@@ -2,7 +2,7 @@
 
 This project is a simple web-based calculator developed using JavaScript and React. The purpose of this project was to enhance my knowledge in web development by implementing fundamental concepts in a practical manner.
 
-![Calculator(Image URL](https://imgur.com/a/x6y7oRB)
+![Calculator(Image URL](https://raw.githubusercontent.com/Vladislavej/todo-app/master/Calculator.png?token=GHSAT0AAAAAACPG7QRX32IOPJQC2N7REW3SZQKQQEQ)
 
 ## Features
 
