@@ -2,7 +2,7 @@
     --primary: #565656;
     --secondary: #343434;
     --accent: #0077ff;
-    --light: #ffffff;
+    --background: #212121;
 }
 
 * {
@@ -13,7 +13,7 @@
 }
 
 body {
-    background-color: var(--light);
+    background-color: var(--background);
 }
 
 .App {
@@ -28,6 +28,7 @@ body {
     max-width: 400px;
     background-color: white;
     border-radius: 16px;
+    border-style: ridge;
     overflow: hidden;
     box-shadow: 2px 2px 64px black;
 }
@@ -36,7 +37,7 @@ body {
     padding: 16px;
     text-align: right;
     background-color: var(--secondary);
-    color: var(--light);
+    color: white;
     font-size: 24px;
     font-weight: bold;
 }

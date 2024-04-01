@@ -33,12 +33,17 @@ function App() {
         }
     }
     const deleteLast = () => {
-        if(calc == '') {
+        if(calc === '') {
             return;
         }
         const value = calc.slice(0, -1);
 
         setCalc(value);
+    }
+
+    const clear = () => {
+        setCalc("");
+        setResult("");
     }
 
     return (
@@ -49,6 +54,7 @@ function App() {
                 </div>
 
                 <div className="operators">
+                    <button onClick={clear}> CLC</button>
                     <button onClick={() => updateCalc('/')}>/</button>
                     <button onClick={() => updateCalc('*')}>*</button>
                     <button onClick={() => updateCalc('+')}>+</button>
