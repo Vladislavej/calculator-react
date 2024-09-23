@@ -2,7 +2,7 @@
 
 This project is a simple web-based calculator developed using JavaScript and React. The purpose of this project was to enhance my knowledge in web development by implementing fundamental concepts in a practical manner.
 
-![Calculator(Image URL](https://raw.githubusercontent.com/Vladislavej/react-calculator/master/Calculator.png)
+![Calculator(Image URL](https://raw.githubusercontent.com/Vladislavej/react-calculator/master/calculator.webp)
 
 ## Features
 
